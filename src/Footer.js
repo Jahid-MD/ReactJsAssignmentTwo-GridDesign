@@ -35,7 +35,7 @@ function Footer() {
                     <div id="con-icon">
                     <a href="#"><i class="fas fa-map-marker-alt"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 <a href="#">© 2021
